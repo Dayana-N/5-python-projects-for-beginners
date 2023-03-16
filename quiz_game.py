@@ -32,7 +32,7 @@ answer = input('What model is GRONIMLABIH ')
 if answer.lower() == 'lamborghini':
     print('Correct!')
     score += 1
-else: 
+else:
     print('Incorrect')
 
 print('You got ' + str(score) + ' questions correct!')
